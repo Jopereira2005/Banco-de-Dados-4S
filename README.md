@@ -9,5 +9,5 @@
 ## Tecnologia
 
   - SQL
-  - SQL SERVER
+  - SQL Server
 
