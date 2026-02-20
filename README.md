@@ -6,7 +6,7 @@
 
   Marco Antonio Montebello Junior
 
-## Tecnologia
+## Tecnologias
 
   - SQL
   - SQL Server
